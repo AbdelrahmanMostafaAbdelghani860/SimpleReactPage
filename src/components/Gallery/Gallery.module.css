@@ -1,0 +1,13 @@
+.star::before,
+.star::after {
+  content: "";
+  display: inline-block;
+
+  border: solid 2px #2c3e50;
+  height: 1px;
+  background: #2c3e50;
+  width: 8%;
+  padding: 0px 5px 0 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
